@@ -6,7 +6,7 @@
   <br>
    ## 👨🏻‍💻 About Me:
 
-<img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
+<img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://pranesh-nath.netlify.app/)**
 
