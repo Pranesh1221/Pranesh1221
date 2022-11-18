@@ -52,9 +52,9 @@
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranesh-nath/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="pranesh.nath.52@gmail.com" href="mailto:pranesh.nath.52@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/917268930168" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="https://www.linkedin.com/in/pranesh-nath/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="pranesh.nath.52@gmail.com" href="mailto:pranesh.nath.52@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/917268930168" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
   <a href="https://pranesh-nath.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
     <a href="https://twitter.com/PraneshYadav3" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
 </p>
