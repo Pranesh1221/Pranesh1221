@@ -68,7 +68,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranesh1221&layout=compact&theme=dark" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Pranesh1221&theme=react-dark" alt="activitygraph&theme=dark" /> 
+
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranesh1221&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Pranesh1221&theme=dark" alt=""/> </p>
